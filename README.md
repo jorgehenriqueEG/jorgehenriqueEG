@@ -4,7 +4,7 @@
   HTML, CSS, Technology, programming, and system development. Currently, I’m focused on Artificial Intelligence, Machine Learning, and DevOps. I also have a strong interest in manhwas,some sports and some games.
 
 - 🌱 I’m currently learning:  
-  I'm in my 4th semester of Computer Engineering at Uniube, studying AI/ML, DevOps, and Unity programming. Additionally, I’m improving my skills in Java and Python.
+  I'm in my 5th semester of Computer Engineering at Uniube, studying AI/ML, DevOps, and Unity programming. Additionally, I’m improving my skills in Java and Python.
 
 - 💞️ I’m looking to collaborate on:  
   AI projects, DevOps solutions, and innovative software problem-solving. I’m open to collaborating with developers who share an interest in cutting-edge technology and innovation.
@@ -16,4 +16,6 @@
   He/Him
 
 - ⚡ Fun fact:  
-  Despite my technical background, I’m passionate about old-school cartoons and am thinking about creating a TikTok channel to share this passion.
+ Although I have a technical background, I am fascinated by creative processes and am exploring ways to integrate my passion for cultural areas, such as the history of classic cartoons, into my personal projects.
+
+
