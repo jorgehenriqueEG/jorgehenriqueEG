@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Jorge Henrique de Araujo Vitorino (@jorgehenriqueEG)
 
-- 👀 I’m interested in:
-  HTML, CSS, Technology, programming, and system development. Currently, I’m focused on Artificial Intelligence, Machine Learning, and DevOps. I also have a strong interest in manhwas,some sports and some games.
-
+👀 I’m interested in:
+HTML, CSS, technology, programming, and system development. Currently, I’m focusing on Artificial Intelligence, Machine Learning, and DevOps. I have a strong interest in Python, Java, and JavaScript, and I’m always looking to improve my skills in modern software engineering practices.
 - 🌱 I’m currently learning:  
   I'm in my 5th semester of Computer Engineering at Uniube, studying AI/ML, DevOps, and Unity programming. Additionally, I’m improving my skills in Java and Python.
 
