@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Jorge Henrique de Araujo Vitorino (@jorgehenriqueEG)
+# Hi there! 👋 I'm Jorge Henrique de Araujo Vitorino
 
 👀 I’m interested in:
 HTML, CSS, technology, programming, and system development. Currently, I’m focusing on Artificial Intelligence, Machine Learning, and DevOps. I have a strong interest in Python, Java, and JavaScript, and I’m always looking to improve my skills in modern software engineering practices.
