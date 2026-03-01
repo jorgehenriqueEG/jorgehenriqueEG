@@ -1,20 +1,24 @@
-# Hi there! 👋 I'm Jorge Henrique de Araujo Vitorino
+Hi, I'm Jorge Henrique 
+Computer Engineering student (7th semester) focused on Software Development, Automation, and Artificial Intelligence.
 
-👀 I’m interested in:
-HTML, CSS, technology, programming, and system development. Currently, I’m focusing on Artificial Intelligence, Machine Learning, and DevOps. I have a strong interest in Python, Java, and JavaScript, and I’m always looking to improve my skills in modern software engineering practices.
--  I’m currently learning:  
-  I'm in my 5th semester of Computer Engineering at Uniube, studying AI/ML, DevOps, and Unity programming. Additionally, I’m improving my skills in Java and Python.
+I build software solutions that combine backend development, business logic validation, and process automation. 
 
--  I’m looking to collaborate on:  
-  AI projects, DevOps solutions, and innovative software problem-solving. I’m open to collaborating with developers who share an interest in cutting-edge technology and innovation.
+Currently developing CampoFácil, a web-based agricultural management system that includes client management, inventory control, sales tracking, and automated stock validation.
+ Technical Skills  
+- Backend: Python, Java, PHP  
+- Frontend: HTML, CSS, JavaScript  
+- Database: SQL, relational modeling  
+- Automation: Workflow automation logic (n8n), process optimization  
+- Concepts: Object-Oriented Programming, Algorithms, Business Rule Validation  
 
--  How to reach me:  
-  You can contact me via email: jorgehenriqueavitorino@hotmail.com or by phone: +55 (34) 99811-5792.
+ Technical Focus  
+- Backend architecture and system design  
+- Database integration  
+- Automation workflows  
+- Machine Learning fundamentals  
 
--  Pronouns:  
-  He/Him
+ Career Objective  
+Seeking international internship or Junior Developer opportunities in software development, automation, or AI-driven systems, aiming to contribute to scalable and intelligent solutions in global environments.
 
--  Fun fact:  
- Although I have a technical background, I am fascinated by creative processes and am exploring ways to integrate my passion for cultural areas, such as the history of classic cartoons, into my personal projects.
-
-
+ Contact  
+jorgehenriqueavitorino@hotmail.com
