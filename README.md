@@ -1,5 +1,5 @@
 Hi, I'm Jorge Henrique 
-Computer Engineering student (7th semester) focused on Software Development, Automation, and Artificial Intelligence.
+Computer Engineering student (8th semester) focused on Software Development, Automation, and Artificial Intelligence.
 
 I build software solutions that combine backend development, business logic validation, and process automation. 
 
